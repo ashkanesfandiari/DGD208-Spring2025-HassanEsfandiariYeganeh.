@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DGD208-Spring2025-HassanEsfandiariYeganeh": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
