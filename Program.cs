@@ -1,10 +1,14 @@
-﻿namespace DGD208_Spring2025_HassanEsfandiariYeganeh
+﻿using DGD208_Spring2025_HassanEsfandiariYeganeh;
+using System;
+
+namespace DGD208_Spring2025_HassanEsfandiariYeganeh
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Game game = new Game();
+            game.Start();
         }
     }
 }
